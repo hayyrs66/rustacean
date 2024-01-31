@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+Rust [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
